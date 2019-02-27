@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+### 로봇역사문화연구회 소개
+한국 로보틱스 기술 발전의 역사/문화 기록의 발굴 및 조사, 주요 로보틱스 연구개발 프로그램의 추진 방향 및 결과에 대한 자료수집 및 검토, 향후 로보틱스 연구개발의 방향성 정립을 위한 기술 교류를 목표로 합니다. 미래 대한민국 로보틱스 연구개발의 방향성을 정립하고 로보틱스 기술과 산업의 경쟁력을 확보하기 위해서는 과거 로보틱스 기술 발전의 역사와 문화 및 대형 연구개발 프로그램의 추진방향과 결과를 점검할 필요가 있습니다. 이에 과거 주요 연구개발과 산업화를 선도해 온 연구자들과 미래 기술발전 전략을 세우는 연구자들 간의 공감대 형성과 기술 교류를 위한 연구회입니다.
 
-You can use the [editor on GitHub](https://github.com/KoreaRobotics/korearobotics.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KoreaRobotics/korearobotics.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 문의
+* 연구회장 [김홍석](qriocty@gmail.com)
+* 연구부회장 [조영조](mailto:yjcho@etri.re.kr)
