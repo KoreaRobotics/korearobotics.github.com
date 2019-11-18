@@ -7,5 +7,5 @@
     이상형(한국생산기술연구원), 신희선(KAIST), "한국로봇역사를 되돌아보다(1) - 차세대성장동력 지능형로봇사업", [_로봇과인간_](http://kros.org/journal/journal01.asp), Vol16, No3, pp42-57, 2019
 
 ### 문의
-* 연구회장 [조영조(한국전자통신연구원)](mailto:yjcho@etri.re.kr)
-* 연구부회장 [이상형(한국생산기술연구원)](mailto:zelog@kitech.re.kr)
+* 연구회장 조영조(한국전자통신연구원) [youngjo@etri.re.kr](mailto:youngjo@etri.re.kr)
+* 연구부회장 이상형(한국생산기술연구원) [zelog@kitech.re.kr](mailto:zelog@kitech.re.kr)
