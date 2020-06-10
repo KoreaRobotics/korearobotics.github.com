@@ -15,4 +15,4 @@
 ### 문의
 
 -   연구회장 조영조(한국전자통신연구원) <mailto:youngjo@etri.re.kr>
--   연구부회장 이상형(한국생산기술연구원) <mailto:zelog@kitech.re.kr>
+-   연구부회장 안태범(국립과학관) <mailto:tbahn@korea.kr>
